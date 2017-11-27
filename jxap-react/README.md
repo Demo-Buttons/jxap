@@ -9,3 +9,5 @@
 4.es2015 js书写方法 
 
 5.makedown介绍
+
+6.页面top.footer,左侧栏查询组件，talkList发表组件
