@@ -6,7 +6,7 @@
 
 3.react html css 创建方式 
 
-4.es2015 js书写方法 
+4.es2016 js书写方法 
 
 5.makedown介绍
 
